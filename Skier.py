@@ -1,4 +1,3 @@
-#created by Yanshev
 P = float(input("Введите P: "))/100
 A = 10.0
 run = A
